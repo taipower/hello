@@ -1,0 +1,31 @@
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+rmine the server's fully qualified domain name, using 10.0.0.109 for ServerName
+[Thu Jan 31 20:30:15 2008] [notice] Apache/2.2.8 (Win32) configured -- resuming normal operations
+[Thu Jan 31 20:30:15 2008] [notice] Server built: Jan 18 2008 00:37:19
+[Thu Jan 31 20:30:15 2008] [notice] Parent: Created child process 756
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.0.0.109 for ServerName
+httpd.exe: Could not reliably determine the server's fully qualified domain name, using 10.0.0.109 for ServerName
+[Thu Jan 31 20:30:15 2008] [notice] Child 756: Child process is running
+[Thu Jan 31 20:30:15 2008] [notice] Child 756: Acquired the start mutex.
+[Thu Jan 31 20:30:15 2008] [notice] Child 756: Starting 64 worker threads.
+[Thu Jan 31 20:30:15 2008] [notice] Child 756: Starting thread to listen on port 80.
+[Thu Jan 31 20:30:22 2008] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Jan 31 20:30:22 2008] [notice] Child 756: Exit event signaled. Child process is ending.
+[Thu Jan 31 20:30:23 2008] [notice] Child 756: Released the start mutex
+[Thu Jan 31 20:30:24 2008] [notice] Child 756: All worker threads have exited.
+[Thu Jan 31 20:30:24 2008] [notice] Child 756: Child process is exiting
+[Thu Jan 31 20:30:24 2008] [notice] Parent: Child process exited successfully.
+Starting the Apache2.2 service
+The Apache2.2 service is running.
+to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jun 26 14:37:32 2013] [notice] Apache/2.2.8 (Win32) PHP/5.2.6 configured -- resuming normal operations
+[Wed Jun 26 14:37:32 2013] [notice] Server built: Jan 18 2008 00:37:19
+[Wed Jun 26 14:37:32 2013] [notice] Parent: Created child process 4424
+PHP Warning:  PHP Startup: Unable to load dynamic library 'C:/AppServ\\php5\\ext\\php_exif.dll' - The specified module could not be found.\r\n in Unknown on line 0
+[Wed Jun 26 14:37:33 2013] [notice] Child 4424: Child process is running
+[Wed Jun 26 14:37:33 2013] [notice] Child 4424: Acquired the start mutex.
+[Wed Jun 26 14:37:33 2013] [notice] Child 4424: Starting 64 worker threads.
+[Wed Jun 26 14:37:33 2013] [notice] Child 4424: Starting thread to listen on port 8000.
+[Wed Jun 26 14:37:49 2013] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico
+[Wed Jun 26 14:39:23 2013] [error] [client 127.0.0.1] File does not exist: C:/AppServ/www/favicon.ico

@@ -1,0 +1,9 @@
+127.0.0.1 - - [26/Jun/2013:14:37:49 +0700] "GET / HTTP/1.1" 200 3635
+127.0.0.1 - - [26/Jun/2013:14:37:49 +0700] "GET /appserv/members.gif HTTP/1.1" 200 755
+127.0.0.1 - - [26/Jun/2013:14:37:49 +0700] "GET /appserv/annoicon.gif HTTP/1.1" 200 1182
+127.0.0.1 - - [26/Jun/2013:14:37:49 +0700] "GET /appserv/flag-thai.png HTTP/1.1" 200 545
+127.0.0.1 - - [26/Jun/2013:14:37:49 +0700] "GET /appserv/flag-english.png HTTP/1.1" 200 576
+127.0.0.1 - - [26/Jun/2013:14:37:49 +0700] "GET /appserv/softicon.gif HTTP/1.1" 200 474
+127.0.0.1 - - [26/Jun/2013:14:37:49 +0700] "GET /favicon.ico HTTP/1.1" 404 294
+127.0.0.1 - - [26/Jun/2013:14:39:23 +0700] "GET /hello.php HTTP/1.1" 200 2
+127.0.0.1 - - [26/Jun/2013:14:39:23 +0700] "GET /favicon.ico HTTP/1.1" 404 294
